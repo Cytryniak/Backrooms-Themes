@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600"
+   height="1600"
+   viewBox="0 0 423.33331 423.33332"
+   version="1.1"
+   id="svg3524"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo_pdbr2_blue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3526"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-midpoints="false"
+     inkscape:object-paths="true"
+     units="px"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-398.80821"
+     inkscape:cy="1179.4541"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     width="1500px" />
+  <defs
+     id="defs3521">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       id="path-effect1181"
+       is_visible="true"
+       lpeversion="1"
+       linkedpaths=""
+       method="bsplinespiro"
+       join="true"
+       close="true"
+       autoreverse="true"
+       applied="false" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1174"
+       inkscape:label="filtr0" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path6069"
+       style="fill:#950df6;fill-opacity:1;stroke-width:1.00108"
+       inkscape:transform-center-x="-1.8751819"
+       inkscape:transform-center-y="-36.445222"
+       d="m 371.66672,338.68376 -130,-225.1657 -22.4994,38.9701 84.9999,147.2242 -170.0001,5e-4 -22.5002,38.9714 z" />
+  </g>
+</svg>

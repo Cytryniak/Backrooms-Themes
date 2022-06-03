@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1400"
+   height="1400"
+   viewBox="0 0 370.41665 370.41666"
+   version="1.1"
+   id="svg3524"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo_pdbr2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3526"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-midpoints="false"
+     inkscape:object-paths="true"
+     units="px"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="405.87929"
+     inkscape:cy="813.1728"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3521" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g827"
+       transform="translate(0,-20.6632)">
+      <path
+         id="path5837"
+         style="fill:#e808b6;fill-opacity:1;stroke-width:1.00108"
+         inkscape:transform-center-x="6.8129771e-05"
+         inkscape:transform-center-y="-39.692772"
+         d="M 230.2082,20.6632 100.2089,245.8293 h 44.9988 l 85,-147.2241 85.0005,147.2241 h 45.0004 z" />
+      <path
+         id="path6067"
+         style="fill:#19b8c4;fill-opacity:1;stroke-width:1.00108"
+         inkscape:transform-center-x="1.8748181"
+         inkscape:transform-center-y="-36.444872"
+         d="m 10.2081,297.7913 259.9992,-4e-4 -22.4994,-38.9701 -169.9998,-1e-4 84.9996,-147.2246 -22.5002,-38.9715 z" />
+      <path
+         id="path6069"
+         style="fill:#950df6;fill-opacity:1;stroke-width:1.00108"
+         inkscape:transform-center-x="-1.8751819"
+         inkscape:transform-center-y="-36.445222"
+         d="m 360.2083,349.7529 -130,-225.1657 -22.4994,38.9701 84.9999,147.2242 -170.0001,5e-4 -22.5002,38.9714 z" />
+    </g>
+  </g>
+</svg>
